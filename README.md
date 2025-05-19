@@ -2,6 +2,8 @@
 
 A simple graphical tool to set up chess positions, solve them using a UCI chess engine, and generate animated GIFs of the best move sequence.
 
+![Demo](readme.gif)
+
 ## Features
 
 - Interactive chessboard for manual piece placement.
@@ -13,9 +15,9 @@ A simple graphical tool to set up chess positions, solve them using a UCI chess 
 ## Requirements
 
 - Python 3.7+
+- [PyQt5](https://pypi.org/project/PyQt5/)
 - [Pillow](https://pypi.org/project/Pillow/)
 - [python-chess](https://pypi.org/project/python-chess/)
-- [tkinter](https://wiki.python.org/moin/TkInter) (usually included with Python)
 
 Install dependencies:
 ```

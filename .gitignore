@@ -1,3 +1,7 @@
 .*
 !.gitignore
+
 *.gif
+!readme.gif
+
+*__*
